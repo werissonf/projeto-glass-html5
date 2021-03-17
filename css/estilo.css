@@ -37,7 +37,7 @@ a:hover {
 
 header#cabecalho img#icone { 
 	position: absolute;
-	left: 1080px;
+	left: 1000px;
 	top: 70px
 }
 
@@ -106,7 +106,7 @@ nav#menu ul {
     text-transform: uppercase;
     position: absolute;
     top: 0px;
-    left: 600px;
+    left: 498px;
 }
 
 nav#menu li {
